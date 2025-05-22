@@ -16,7 +16,7 @@ public class Program
             Console.WriteLine("3 - Save journal");
             Console.WriteLine("4 - Load journal");
             Console.WriteLine("5 - Exit");
-            Console.Write("Choose an option: ");
+            Console.Write("What would you like to do? ");
             string _choice = Console.ReadLine();
 
             switch (_choice)
